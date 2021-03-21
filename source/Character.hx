@@ -359,7 +359,9 @@ class Character extends FlxSprite
 
 				flipX = true;
 			case 'bf-pixel':
-				frames = Paths.getSparrowAtlas('weeb/bfPixel');
+				// frames = Paths.getSparrowAtlas('weeb/bfPixel');
+				frames = Paths.getPackerAtlasJson('weeb/bfPixel');
+				// trace(frames); was added to see what the frick is wrong with json data (it needs instance named in things)
 				animation.addByPrefix('idle', 'BF IDLE', 24, false);
 				animation.addByPrefix('singUP', 'BF UP NOTE', 24, false);
 				animation.addByPrefix('singLEFT', 'BF LEFT NOTE', 24, false);

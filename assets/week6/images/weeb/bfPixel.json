@@ -1,0 +1,1003 @@
+{ "frames": {
+   "BF DOWN MISS instance 0": {
+    "frame": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF DOWN MISS instance 1": {
+    "frame": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF DOWN MISS instance 2": {
+    "frame": { "x": 73, "y": 0, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF DOWN MISS instance 3": {
+    "frame": { "x": 73, "y": 0, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF DOWN MISS instance 4": {
+    "frame": { "x": 73, "y": 0, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF DOWN MISS instance 5": {
+    "frame": { "x": 73, "y": 0, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF DOWN MISS instance 6": {
+    "frame": { "x": 73, "y": 0, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF DOWN MISS instance 7": {
+    "frame": { "x": 73, "y": 0, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF DOWN MISS instance 8": {
+    "frame": { "x": 73, "y": 0, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF DOWN MISS instance 9": {
+    "frame": { "x": 73, "y": 0, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF DOWN MISS instance 10": {
+    "frame": { "x": 73, "y": 0, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF DOWN MISS instance 11": {
+    "frame": { "x": 73, "y": 0, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF DOWN MISS instance 12": {
+    "frame": { "x": 73, "y": 0, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF DOWN NOTE instance 0": {
+    "frame": { "x": 146, "y": 0, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF DOWN NOTE instance 1": {
+    "frame": { "x": 146, "y": 0, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF DOWN NOTE instance 2": {
+    "frame": { "x": 219, "y": 0, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF DOWN NOTE instance 3": {
+    "frame": { "x": 219, "y": 0, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF DOWN NOTE instance 4": {
+    "frame": { "x": 219, "y": 0, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF DOWN NOTE instance 5": {
+    "frame": { "x": 219, "y": 0, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF DOWN NOTE instance 6": {
+    "frame": { "x": 219, "y": 0, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF DOWN NOTE instance 7": {
+    "frame": { "x": 219, "y": 0, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF DOWN NOTE instance 8": {
+    "frame": { "x": 219, "y": 0, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF DOWN NOTE instance 9": {
+    "frame": { "x": 219, "y": 0, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF DOWN NOTE instance 10": {
+    "frame": { "x": 219, "y": 0, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF DOWN NOTE instance 11": {
+    "frame": { "x": 219, "y": 0, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF DOWN NOTE instance 12": {
+    "frame": { "x": 219, "y": 0, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF DOWN NOTE instance 13": {
+    "frame": { "x": 219, "y": 0, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF IDLE instance 0": {
+    "frame": { "x": 292, "y": 0, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF IDLE instance 1": {
+    "frame": { "x": 292, "y": 0, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF IDLE instance 2": {
+    "frame": { "x": 0, "y": 89, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF IDLE instance 3": {
+    "frame": { "x": 0, "y": 89, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF IDLE instance 4": {
+    "frame": { "x": 292, "y": 0, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF IDLE instance 5": {
+    "frame": { "x": 292, "y": 0, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF IDLE instance 6": {
+    "frame": { "x": 0, "y": 89, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF IDLE instance 7": {
+    "frame": { "x": 0, "y": 89, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF IDLE instance 8": {
+    "frame": { "x": 292, "y": 0, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF IDLE instance 9": {
+    "frame": { "x": 292, "y": 0, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF IDLE instance 10": {
+    "frame": { "x": 292, "y": 0, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF IDLE instance 11": {
+    "frame": { "x": 292, "y": 0, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF IDLE instance 12": {
+    "frame": { "x": 292, "y": 0, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF IDLE instance 13": {
+    "frame": { "x": 292, "y": 0, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF LEFT MISS instance 0": {
+    "frame": { "x": 73, "y": 89, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF LEFT MISS instance 1": {
+    "frame": { "x": 73, "y": 89, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF LEFT MISS instance 2": {
+    "frame": { "x": 146, "y": 89, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF LEFT MISS instance 3": {
+    "frame": { "x": 146, "y": 89, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF LEFT MISS instance 4": {
+    "frame": { "x": 146, "y": 89, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF LEFT MISS instance 5": {
+    "frame": { "x": 146, "y": 89, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF LEFT MISS instance 6": {
+    "frame": { "x": 146, "y": 89, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF LEFT MISS instance 7": {
+    "frame": { "x": 146, "y": 89, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF LEFT MISS instance 8": {
+    "frame": { "x": 146, "y": 89, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF LEFT MISS instance 9": {
+    "frame": { "x": 146, "y": 89, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF LEFT MISS instance 10": {
+    "frame": { "x": 146, "y": 89, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF LEFT MISS instance 11": {
+    "frame": { "x": 146, "y": 89, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF LEFT MISS instance 12": {
+    "frame": { "x": 146, "y": 89, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF LEFT NOTE instance 0": {
+    "frame": { "x": 219, "y": 89, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF LEFT NOTE instance 1": {
+    "frame": { "x": 219, "y": 89, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF LEFT NOTE instance 2": {
+    "frame": { "x": 292, "y": 89, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF LEFT NOTE instance 3": {
+    "frame": { "x": 292, "y": 89, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF LEFT NOTE instance 4": {
+    "frame": { "x": 292, "y": 89, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF LEFT NOTE instance 5": {
+    "frame": { "x": 292, "y": 89, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF LEFT NOTE instance 6": {
+    "frame": { "x": 292, "y": 89, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF LEFT NOTE instance 7": {
+    "frame": { "x": 292, "y": 89, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF LEFT NOTE instance 8": {
+    "frame": { "x": 292, "y": 89, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF LEFT NOTE instance 9": {
+    "frame": { "x": 292, "y": 89, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF LEFT NOTE instance 10": {
+    "frame": { "x": 292, "y": 89, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF LEFT NOTE instance 11": {
+    "frame": { "x": 292, "y": 89, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF LEFT NOTE instance 12": {
+    "frame": { "x": 292, "y": 89, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF LEFT NOTE instance 13": {
+    "frame": { "x": 292, "y": 89, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF RIGHT MISS instance 0": {
+    "frame": { "x": 0, "y": 178, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF RIGHT MISS instance 1": {
+    "frame": { "x": 0, "y": 178, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF RIGHT MISS instance 2": {
+    "frame": { "x": 73, "y": 178, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF RIGHT MISS instance 3": {
+    "frame": { "x": 73, "y": 178, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF RIGHT MISS instance 4": {
+    "frame": { "x": 73, "y": 178, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF RIGHT MISS instance 5": {
+    "frame": { "x": 73, "y": 178, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF RIGHT MISS instance 6": {
+    "frame": { "x": 73, "y": 178, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF RIGHT MISS instance 7": {
+    "frame": { "x": 73, "y": 178, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF RIGHT MISS instance 8": {
+    "frame": { "x": 73, "y": 178, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF RIGHT MISS instance 9": {
+    "frame": { "x": 73, "y": 178, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF RIGHT MISS instance 10": {
+    "frame": { "x": 73, "y": 178, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF RIGHT MISS instance 11": {
+    "frame": { "x": 73, "y": 178, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF RIGHT MISS instance 12": {
+    "frame": { "x": 73, "y": 178, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF RIGHT NOTE instance 0": {
+    "frame": { "x": 146, "y": 178, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF RIGHT NOTE instance 1": {
+    "frame": { "x": 146, "y": 178, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF RIGHT NOTE instance 2": {
+    "frame": { "x": 219, "y": 178, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF RIGHT NOTE instance 3": {
+    "frame": { "x": 219, "y": 178, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF RIGHT NOTE instance 4": {
+    "frame": { "x": 219, "y": 178, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF RIGHT NOTE instance 5": {
+    "frame": { "x": 219, "y": 178, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF RIGHT NOTE instance 6": {
+    "frame": { "x": 219, "y": 178, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF RIGHT NOTE instance 7": {
+    "frame": { "x": 219, "y": 178, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF RIGHT NOTE instance 8": {
+    "frame": { "x": 219, "y": 178, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF RIGHT NOTE instance 9": {
+    "frame": { "x": 219, "y": 178, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF RIGHT NOTE instance 10": {
+    "frame": { "x": 219, "y": 178, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF RIGHT NOTE instance 11": {
+    "frame": { "x": 219, "y": 178, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF RIGHT NOTE instance 12": {
+    "frame": { "x": 219, "y": 178, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF RIGHT NOTE instance 13": {
+    "frame": { "x": 219, "y": 178, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF UP MISS instance 0": {
+    "frame": { "x": 292, "y": 178, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF UP MISS instance 1": {
+    "frame": { "x": 292, "y": 178, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF UP MISS instance 2": {
+    "frame": { "x": 0, "y": 267, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF UP MISS instance 3": {
+    "frame": { "x": 0, "y": 267, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF UP MISS instance 4": {
+    "frame": { "x": 0, "y": 267, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF UP MISS instance 5": {
+    "frame": { "x": 0, "y": 267, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF UP MISS instance 6": {
+    "frame": { "x": 0, "y": 267, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF UP MISS instance 7": {
+    "frame": { "x": 0, "y": 267, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF UP MISS instance 8": {
+    "frame": { "x": 0, "y": 267, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF UP MISS instance 9": {
+    "frame": { "x": 0, "y": 267, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF UP MISS instance 10": {
+    "frame": { "x": 0, "y": 267, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF UP MISS instance 11": {
+    "frame": { "x": 0, "y": 267, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF UP MISS instance 12": {
+    "frame": { "x": 0, "y": 267, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF UP NOTE instance 0": {
+    "frame": { "x": 73, "y": 267, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF UP NOTE instance 1": {
+    "frame": { "x": 73, "y": 267, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF UP NOTE instance 2": {
+    "frame": { "x": 146, "y": 267, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF UP NOTE instance 3": {
+    "frame": { "x": 146, "y": 267, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF UP NOTE instance 4": {
+    "frame": { "x": 146, "y": 267, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF UP NOTE instance 5": {
+    "frame": { "x": 146, "y": 267, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF UP NOTE instance 6": {
+    "frame": { "x": 146, "y": 267, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF UP NOTE instance 7": {
+    "frame": { "x": 146, "y": 267, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF UP NOTE instance 8": {
+    "frame": { "x": 146, "y": 267, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF UP NOTE instance 9": {
+    "frame": { "x": 146, "y": 267, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF UP NOTE instance 10": {
+    "frame": { "x": 146, "y": 267, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF UP NOTE instance 11": {
+    "frame": { "x": 146, "y": 267, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF UP NOTE instance 12": {
+    "frame": { "x": 146, "y": 267, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   },
+   "BF UP NOTE instance 13": {
+    "frame": { "x": 146, "y": 267, "w": 73, "h": 89 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 89 },
+    "sourceSize": { "w": 73, "h": 89 },
+    "duration": 41
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.25-x64",
+  "image": "bfPixel.png",
+  "format": "RGBA8888",
+  "size": { "w": 365, "h": 356 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "BF DOWN MISS", "from": 0, "to": 12, "direction": "forward" },
+   { "name": "BF DOWN NOTE", "from": 13, "to": 26, "direction": "forward" },
+   { "name": "BF IDLE", "from": 27, "to": 40, "direction": "forward" },
+   { "name": "BF LEFT MISS", "from": 41, "to": 53, "direction": "forward" },
+   { "name": "BF LEFT NOTE", "from": 54, "to": 67, "direction": "forward" },
+   { "name": "BF RIGHT MISS", "from": 68, "to": 80, "direction": "forward" },
+   { "name": "BF RIGHT NOTE", "from": 81, "to": 94, "direction": "forward" },
+   { "name": "BF UP MISS", "from": 95, "to": 107, "direction": "forward" },
+   { "name": "BF UP NOTE", "from": 108, "to": 121, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "Sprite Sheet", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

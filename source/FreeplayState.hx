@@ -230,7 +230,8 @@ class FreeplayState extends MusicBeatState
 	function changeSelection(change:Int = 0)
 	{
 		#if !switch
-		NGio.logEvent('Fresh');
+		// NGio.logEvent('Fresh');
+		// crashes the freeplay bcz of newground stats now blocked
 		#end
 
 		// NGio.logEvent('Fresh');

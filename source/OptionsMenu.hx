@@ -100,7 +100,7 @@ class OptionsMenu extends MusicBeatState
 	function changeSelection(change:Int = 0)
 	{
 		#if !switch
-		NGio.logEvent('Fresh');
+		// NGio.logEvent('Fresh'); // again the same glitchy thing as in freeplay mode
 		#end
 
 		FlxG.sound.play(Paths.sound('scrollMenu'), 0.4);
